@@ -7,3 +7,4 @@ $HTTP["url"] =~ "^/search" {
 }
 ```
 to lighttpd.conf
+you can then add http://<host>?q=%s as a search engine in your browser 
